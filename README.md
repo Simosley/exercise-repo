@@ -1,3 +1,3 @@
 # exercise-repo
-Making conflict
-Just to learn!!!
+Now ive learned! :D
+
